@@ -1,0 +1,4 @@
+Effective Java
+Clean Code
+The Pragmatic Programmer
+Design Patterns
